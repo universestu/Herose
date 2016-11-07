@@ -1,0 +1,12 @@
+sprite.png
+size: 199, 222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Narutobig
+  rotate: false
+  xy: 0, 0
+  size: 199, 222
+  orig: 199, 222
+  offset: 0, 0
+  index: -1
